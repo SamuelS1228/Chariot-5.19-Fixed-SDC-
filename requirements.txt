@@ -1,5 +1,0 @@
-streamlit>=1.45
-numpy>=2.0
-pandas>=2.2.3        # first pandas with cp313 wheels
-scikit-learn>=1.6    # first sklearn with cp313 wheels
-pydeck>=0.8
